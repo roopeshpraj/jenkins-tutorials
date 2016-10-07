@@ -1,7 +1,16 @@
 # jenkins-tutorials
 https://wiki.jenkins-ci.org/display/JENKINS/Job+DSL+Plugin
+
 https://github.com/jenkinsci/job-dsl-plugin/wiki
+
 https://jenkinsci.github.io/job-dsl-plugin/
+
+https://blog.codecentric.de/en/2015/10/using-jenkins-job-dsl-for-job-lifecycle-management/?WBSN-session=54a9062e-8c8b-11e6-9861-246e96091514
+
+https://www.cloudbees.com/sites/default/files/superchargedconfigurationascode_1.pdf
+
+https://blog.codecentric.de/en/2015/01/continuous-delivery-microservices-jenkins-job-dsl-plugin/
+
 
 Basic Use
 
